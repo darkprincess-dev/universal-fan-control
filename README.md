@@ -1,1 +1,1 @@
-# universal-fan-controller
+# universal-fan-control
