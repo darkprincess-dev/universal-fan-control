@@ -1,4 +1,4 @@
-# universal-fan-control
+# fan-control
 
 - Available only on Linux. 
 - Requires Python version 3.12 or later.
